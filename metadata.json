@@ -1,0 +1,6 @@
+{
+  "name": "ParentTeacher Connect - School Communication & Collaboration Portal",
+  "description": "A comprehensive, responsive school communication platform connecting parents, teachers, and school administrators for academic tracking, attendance, fees, messaging, meetings, homework, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
